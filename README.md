@@ -1,2 +1,2 @@
 # python-notes
-Notes for learning Python.
+Notes for data processing & visualization in Python learning.
